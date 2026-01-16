@@ -28,7 +28,7 @@ SplitCam transforms your camera into a fully customizable video source. It provi
 </p>
 
 <p align="center">
-  <img src="https://imgur.com/xPj9CSj" alt="AI virtual background removal demo" width="75%"/><br>
+  <img src="https://splitcam.com/wp-content/themes/cleartheme/img/page-features_slideshow.png" alt="AI virtual background removal demo" width="75%"/><br>
   <em>Real-time effects, masks and filters.</em>
 </p>
 
