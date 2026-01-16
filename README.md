@@ -47,15 +47,9 @@ SplitCam transforms your camera into a fully customizable video source. It provi
 ## 📦 Installation (Simple & Clear)
 
 1. Download or clone this repository:  
-   ```bash
-   git clone https://github.com/childishguytu0/SplitCam.git
-   ```
 2. Extract the downloaded archive (if you used the ZIP version).  
 3. Open the extracted folder.  
-4. Run the installer:
-   ```
-   setup.exe
-   ```
+4. Run the installer: Setup.exe
 5. Follow the on-screen installation instructions.
 
 After installation, launch SplitCam and select it as a camera source in your streaming, recording, or video conferencing software.
