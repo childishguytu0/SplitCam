@@ -22,18 +22,25 @@ SplitCam transforms your camera into a fully customizable video source. It provi
 ---
 
 ## 🖼️ Screenshots
+<p align="center">
+  <img src="https://imgur.com/pNwr1I2" alt="ManyCam main interface with layers and effects" width="75%"/><br>
+  <em>Main SplitCam interface — scene canvas and layers.</em>
+</p>
 
-![Main Interface](https://imgur.com/pNwr1I2)  
-*Main SplitCam interface — scene canvas and layers.*
+<p align="center">
+  <img src="https://imgur.com/xPj9CSj" alt="AI virtual background removal demo" width="75%"/><br>
+  <em>Real-time effects, masks and filters.</em>
+</p>
 
-![Effects Panel](https://imgur.com/undefined)  
-*Real-time effects, masks and filters.*
+<p align="center">
+  <img src="https://imgur.com/lgWM6q1" alt="Picture-in-Picture and multi-layer effects" width="75%"/><br>
+  <em>Add channels and stream to multiple platforms at once.</em>
+</p>
 
-![Streaming Settings](https://imgur.com/lgWM6q1)  
-*Add channels and stream to multiple platforms at once.*
-
-![Recording View](https://imgur.com/LKbA1o3)  
-*Local recording and snapshot tools.*
+<p align="center">
+  <img src="https://imgur.com/LKbA1o3" alt="Picture-in-Picture feature example" width="75%"/><br>
+  <em>Local recording and snapshot tools.</em>
+</p>
 
 ---
 
