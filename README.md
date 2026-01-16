@@ -23,22 +23,22 @@ SplitCam transforms your camera into a fully customizable video source. It provi
 
 ## 🖼️ Screenshots
 <p align="center">
-  <img src="https://splitcam.com/wp-content/themes/cleartheme/img/page-features_virtual_webcam.png" alt="ManyCam main interface with layers and effects" width="100%"/><br>
+  <img src="https://splitcam.com/wp-content/themes/cleartheme/img/page-features_virtual_webcam.png" alt="ManyCam main interface with layers and effects" width="75%"/><br>
   <em>Main SplitCam interface — scene canvas and layers.</em>
 </p>
 
 <p align="center">
-  <img src="https://splitcam.com/wp-content/themes/cleartheme/img/page-features_slideshow.png" alt="AI virtual background removal demo" width="100%"/><br>
+  <img src="https://splitcam.com/wp-content/themes/cleartheme/img/page-features_slideshow.png" alt="AI virtual background removal demo" width="75%"/><br>
   <em>Real-time effects, masks and filters.</em>
 </p>
 
 <p align="center">
-  <img src="https://splitcam.com/wp-content/themes/cleartheme/img/page-features_stream_settings.png" alt="Picture-in-Picture and multi-layer effects" width="100%"/><br>
+  <img src="https://splitcam.com/wp-content/themes/cleartheme/img/page-features_stream_settings.png" alt="Picture-in-Picture and multi-layer effects" width="75%"/><br>
   <em>Add channels and stream to multiple platforms at once.</em>
 </p>
 
 <p align="center">
-  <img src="https://splitcam.com/wp-content/themes/cleartheme/img/page-features_video_recording.png" alt="Picture-in-Picture feature example" width="100%"/><br>
+  <img src="https://splitcam.com/wp-content/themes/cleartheme/img/page-features_video_recording.png" alt="Picture-in-Picture feature example" width="75%"/><br>
   <em>Local recording and snapshot tools.</em>
 </p>
 
@@ -46,7 +46,7 @@ SplitCam transforms your camera into a fully customizable video source. It provi
 
 ## 📦 Installation (Simple & Clear)
 
-1. Download or clone this repository:  
+1. Download or clone this repository.  
 2. Extract the downloaded archive (if you used the ZIP version).  
 3. Open the extracted folder.  
 4. Run the installer: Setup.exe
