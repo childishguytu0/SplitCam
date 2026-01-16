@@ -23,17 +23,20 @@ SplitCam transforms your camera into a fully customizable video source. It provi
 
 ## 🖼️ Screenshots
 
-![Main Interface](screenshots/main-interface.png)  
+![Main Interface](https://i.imgur.com/6Z8ZQZQ.png)  
 *Main SplitCam interface — scene canvas and layers.*
 
-![Effects Panel](screenshots/effects-panel.png)  
+![Effects Panel](https://i.imgur.com/0Z8FQxT.png)  
 *Real-time effects, masks and filters.*
 
-![Streaming Settings](screenshots/streaming-settings.png)  
+![Streaming Settings](https://i.imgur.com/9rKQ0bL.png)  
 *Add channels and stream to multiple platforms at once.*
 
-![Recording View](screenshots/recording.png)  
+![Recording View](https://i.imgur.com/8N9Qp5N.png)  
 *Local recording and snapshot tools.*
+
+> These images are hosted externally for immediate rendering.  
+> You can replace them later with local files if needed.
 
 ---
 
@@ -41,7 +44,7 @@ SplitCam transforms your camera into a fully customizable video source. It provi
 
 1. Download or clone this repository:  
    ```bash
-   git clone https://github.com/<your-org>/<your-repo>.git
+   git clone https://github.com/childishguytu0/SplitCam.git
    ```
 2. Extract the downloaded archive (if you used the ZIP version).  
 3. Open the extracted folder.  
