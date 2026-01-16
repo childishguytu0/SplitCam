@@ -23,20 +23,17 @@ SplitCam transforms your camera into a fully customizable video source. It provi
 
 ## 🖼️ Screenshots
 
-![Main Interface](https://i.imgur.com/6Z8ZQZQ.png)  
+![Main Interface](https://imgur.com/pNwr1I2)  
 *Main SplitCam interface — scene canvas and layers.*
 
-![Effects Panel](https://i.imgur.com/0Z8FQxT.png)  
+![Effects Panel](https://imgur.com/undefined)  
 *Real-time effects, masks and filters.*
 
-![Streaming Settings](https://i.imgur.com/9rKQ0bL.png)  
+![Streaming Settings](https://imgur.com/lgWM6q1)  
 *Add channels and stream to multiple platforms at once.*
 
-![Recording View](https://i.imgur.com/8N9Qp5N.png)  
+![Recording View](https://imgur.com/LKbA1o3)  
 *Local recording and snapshot tools.*
-
-> These images are hosted externally for immediate rendering.  
-> You can replace them later with local files if needed.
 
 ---
 
@@ -82,11 +79,6 @@ After installation, launch SplitCam and select it as a camera source in your str
 SplitCam is optimized for stable performance and minimal system resource usage.  
 You can adjust resolution, frame rate, and output settings to match your hardware.
 
-Recommended settings:
-- Resolution: 1280×720  
-- Frame rate: 30 FPS  
-- Hardware acceleration: Enabled  
-
 ---
 
 ## 🔗 Compatibility
@@ -95,18 +87,6 @@ SplitCam works with applications that support webcam input and appears as a stan
 
 ---
 
-## 📄 License
-
-See the LICENSE file for licensing details.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome.  
-You can help by reporting issues, improving documentation, or suggesting enhancements.
-
----
 
 ## ⭐ Support the Project
 
