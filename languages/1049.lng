@@ -1,0 +1,64 @@
+[CL.frmMain]
+frmMain_actStart=Старт
+frmMain_actCancel=Отмена
+frmMain_actClose=Закрыть
+frmMain_actHelp=Справка
+frmMain_actAbout=О программе...
+frmMain_actCompany=Страница компании
+frmMain_actProduct=Страница продукта
+frmMain_actSupport=Отправить вопрос в службу поддержки
+frmMain_actUpdates=Проверить обновления...
+frmMain_actSettings=Параметры...
+frmMain_actExit=Выход
+frmMain_dlmHelp=Справочная информация
+frmMain_lblTitleWelcome=Поиск дубликатов файлов
+frmResults_actSelectAll=Отметить все
+frmResults_actInvert=Инвертировать выбранное
+frmResults_actDeSelect=Снять все отметки
+Msg_Abort=Прервать текущую операцию?
+frmMain_SpeedUp=Загрузите Ainvo Speed Up - популярное бесплатное приложение для очистки и ускорения Windows.
+frmMain_SpeedUp_link=http://www.ainvo.com/ru/product.php?path=data/products/sup
+
+[links]
+company=http://www.ainvo.com/ru/product.php?path=data/products/df
+product=http://www.ainvo.com/ru/product.php?path=data/products/df
+support=http://www.ainvo.com/ru/support.php?path=data/products/df
+contact=http://www.ainvo.com/ru/contact-form.php?path=data/products/df
+updates=http://www.ainvo.com/ru/updates.php?product=df&path=data/products/df/&version=%s 
+about=http://www.ainvo.com/ru/about.php?path=data/products/df
+feedback=http://www.ainvo.com/ru/contact-form.php?path=data/products/df
+home=http://www.ainvo.com/ru/product.php?path=data/products/df
+rate=http://www.ainvo.com/ru/contact-form.php?path=data/products/df
+bug=http://www.ainvo.com/ru/contact-form.php?path=data/products/df
+vkontakte_ru=http://www.ainvo.com/ru/hint.php?data=vkontakte&path=data/products/df
+mail_ru=http://www.ainvo.com/ru/hint.php?data=mail&path=data/products/df
+facebook=http://www.ainvo.com/ru/hint.php?data=facebook&path=data/products/df
+twitter=http://www.ainvo.com/ru/hint.php?data=twitter&path=data/products/df
+faq_1=http://www.ainvo.com/ru/faq.php?path=data/products/df/&name=q1/
+
+[DF.Core]
+Msg_Name=Увеличивает свободное место на дисках
+Msg_Description=Спасибо, что используете наш продукт. Это популярное бесплатное приложение отлично ищет одинаковые файлы. Благодаря ему тысячи людей записывают на диски еще больше того, что им действительно дорого и важно. Часто, копии файлов напрасно занимают место, но решение есть. Начинаете поиск одинаковых файлов по ссылке "Поиск одинаковых файлов". По ссылке "Одинаковые файлы", выбираете файлы, которые необходимо удалить. Очищаете диски по ссылке "Удаление".
+Msg_Description_Result=Ниже представлен список одинаковых файлов. Отметьте файлы которые необходимо удалить.
+Msg_AnalyzText=Сейчас программа производит поиск одинаковых файлов.
+Msg_AnalyzAbort=Поиск одинаковых файлов был прерван пользователем. Пожалуйста, дождитесь, завершения работы программы.
+Msg_ListCaption=Одинаковые файлы
+Msg_Cmd_Name_Analyz=Поиск одинаковых файлов 
+Msg_Cmd_Name_Analyz_Ok=Найдено одинаковых файлов: %d
+Msg_Cmd_Name_Analyz_Abort=Поиск файлов отменен пользователем
+Msg_Cmd_Name_Result=Одинаковые файлы
+Msg_Cmd_Name_Result_Ok=Выбрано файлов для удаления: %d
+Msg_Cmd_Name_Clear=Удаление
+Msg_Cmd_Name_Clear_Ok=Удалено файлов: %d
+Msg_Cmd_Name_Report=Отчет (Ainvo Optimization Network)
+Msg_Cmd_Name_Res_Property=Свойства файла
+Msg_Cmd_Name_Res_OpenFolder=Открыть каталог с файлом
+Msg_Column1=Имя файла
+Msg_Column2=Дата 
+Msg_Column3=Размер, байт
+Msg_Cmd_Name_Options=Настройки
+Msg_FilesFound=Найдено файлов: %d
+
+[DF.Core.Report]
+Rep_Title_File_Delete=Удалено
+Rep_Title_File_No_Delete=Без изменений

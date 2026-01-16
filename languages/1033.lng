@@ -1,0 +1,63 @@
+[CL.frmMain]
+frmMain_actStart=Start
+frmMain_actCancel=Cancel
+frmMain_actClose=Close
+frmMain_actHelp=Help
+frmMain_actAbout=About...
+frmMain_actCompany=Visit Company Web Site
+frmMain_actProduct=Visit Program Web Site
+frmMain_actSupport=Technical Support
+frmMain_actUpdates=Check for Updates...
+frmMain_actSettings=Settings...
+frmMain_actExit=Exit
+frmMain_dlmHelp=Help & Check for Updates...
+frmMain_lblTitleWelcome=Ainvo Duplicate File Finder
+frmResults_actSelectAll=Select All
+frmResults_actInvert=Invert selection
+frmResults_actDeSelect=Deselect all
+Msg_Abort=Interrupt the current operation?
+frmMain_SpeedUp=Download Ainvo Speed Up - a popular free application for cleaning and speeding up Windows.
+frmMain_SpeedUp_link=http://www.ainvo.com/en/product.php?path=data/products/sup
+
+[links]
+company=http://www.ainvo.com/en/product.php?path=data/products/df
+product=http://www.ainvo.com/en/product.php?path=data/products/df
+support=http://www.ainvo.com/en/support.php?path=data/products/df
+contact=http://www.ainvo.com/en/contact-form.php?path=data/products/df
+updates=http://www.ainvo.com/en/updates.php?product=df&path=data/products/df/&version=%s 
+about=http://www.ainvo.com/en/about.php?path=data/products/df
+feedback=http://www.ainvo.com/en/contact-form.php?path=data/products/df
+home=http://www.ainvo.com/en/product.php?path=data/products/df
+rate=http://www.ainvo.com/en/contact-form.php?path=data/products/df
+bug=http://www.ainvo.com/en/contact-form.php?path=data/products/df
+vkontakte_ru=http://www.ainvo.com/en/hint.php?data=vkontakte&path=data/products/df
+mail_ru=http://www.ainvo.com/en/hint.php?data=mail&path=data/products/df
+facebook=http://www.ainvo.com/en/hint.php?data=facebook&path=data/products/df
+twitter=http://www.ainvo.com/en/hint.php?data=twitter&path=data/products/df
+faq_1=http://www.ainvo.com/en/faq.php?path=data/products/df/&name=q1/
+
+[DF.Core]
+Msg_Name=Frees space on disks
+Msg_Description=Thank you for using our product. This popular free application perfectly finds duplicate files. Thanks to it, thousands of people save to their disks even more of those things that they really need and value. Copies of files often just occupy space, but there is a solution. Start searching for duplicate files using the "Find duplicate files" link. Use the "Duplicate files" link to select the files you want to delete. Clean the disks using the "Disk cleanup" link.
+Msg_Description_Result=You can see the list of duplicate files below. Select the files you want to delete.
+Msg_AnalyzAbort=Search has been interrupted by the user. Please wait till the program finishes its work.
+Msg_ListCaption=Duplicate files
+Msg_Cmd_Name_Analyz=Find duplicate files
+Msg_Cmd_Name_Analyz_Ok=Duplicate files found: %d
+Msg_Cmd_Name_Analyz_Abort=Analysis has been interrupted by the user
+Msg_Cmd_Name_Result=Duplicate files
+Msg_Cmd_Name_Result_Ok=Files selected for deletion: %d
+Msg_Cmd_Name_Clear=Disk cleanup
+Msg_Cmd_Name_Clear_Ok=Files deleted: %d
+Msg_Cmd_Name_Report=Report (Ainvo Optimization Network) 
+Msg_Cmd_Name_Res_Property=Properties
+Msg_Cmd_Name_Res_OpenFolder=Open Folder
+Msg_Column1=Filename
+Msg_Column2=Data
+Msg_Column3=Size
+Msg_Cmd_Name_Options=Options
+Msg_FilesFound=Files found: %d
+
+[DF.Core.Report]
+Rep_Title_File_Delete=Removed
+Rep_Title_File_No_Delete=Unchanged
